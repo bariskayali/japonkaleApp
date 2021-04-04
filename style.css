@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: #BED4AF;
+}
+img{
+
+    margin: auto;
+    width: 600px;
+}
+canvas{
+    z-index: 2;
+    border: solid #fff;
+    margin-top: 200px;
+}
